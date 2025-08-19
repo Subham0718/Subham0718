@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Subham0718/Subham0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Subham**, a first-year BTech student in **Microelectronics & VLSI at IIT Mandi**.  
+I’m passionate about **Python, Web Development, and Open Source**, and I’m currently building the foundation for bigger projects and future contributions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m up to
+- 🔭 Working on: Python projects & revisiting web dev basics (HTML, CSS, JS)  
+- 🌱 Learning: Git, GitHub and Python Libraries 
+- 📚 Balancing tech learning with my academics in Microelectronics & VLSI  
+
+---
+
+### 🛠️ Tech Stack (in progress)
+- **Languages**: Python, HTML/CSS  
+- **Tools**: Git, GitHub,VS Code, Python Modules
+- **Interests**: Web Dev, Open Source, Electronics + Software intersections
+
+- ### 📫 Let’s Connect
+- LinkedIn: www.linkedin.com/in/subham-podili-1b5263367 
+- Email: subham020107@gmail.com
